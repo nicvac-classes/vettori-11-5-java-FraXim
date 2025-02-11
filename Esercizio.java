@@ -37,7 +37,7 @@ public class Esercizio
             }
             trovato = !trovato;
         }
-        cornici = (double) coppie / 2;
+        cornici = coppie / 2;
         System.out.println("cornici = " + cornici);
     }
     
